@@ -1,1 +1,1 @@
-var lib = require('lib/wheel-indicator');
+module.exports = require('lib/wheel-indicator');
